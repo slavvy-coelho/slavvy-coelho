@@ -15,7 +15,7 @@
       <li>:email: Email: slavvycoelho25@gmail.com
     </ul>
 </ul>
-<br> <br>
+<br> 
 
 [![Slavvy's github stats](https://github-readme-stats.vercel.app/api?username=slavvy-coelho&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
