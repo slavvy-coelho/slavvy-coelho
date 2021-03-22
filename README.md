@@ -23,5 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slavvy-coelho)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@slavycoelho/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@slavycoelho/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@slavycoelho/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@slavycoelho/0" alt="Recent Article 0"> </a>
   
